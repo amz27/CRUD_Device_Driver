@@ -1,17 +1,3 @@
-////////////////////////////////////////////////////////////////////////////////
-//
-//  File          : crudsim.c
-//  Description   : This is the main program for the CMPSC311 programming
-//                  assignment #3 (beginning of HDD interface).
-//
-//   Author : Patrick McDaniel
-//  Last Modified  : Sat Sep 2nd 08:56:10 EDT 2017
-//
-////////////////////////////////////////////////////////////////////////////////
-//
-// STUDENTS MUST ADD COMMENTS BELOW
-//
-
 
 // Include Files
 #include <stdio.h>
