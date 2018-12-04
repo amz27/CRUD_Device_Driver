@@ -1,14 +1,3 @@
-####################################################
-#
-# CMPSC311 - Fall 2017
-# Assignment #2 Makefile
-# Author   : Patrick McDaniel
-# Created  : Sat Sep 2nd 08:56:10 EDT 2017
-#
-####################################################
-#
-# STUDENTS MUST ADD COMMENTS BELOW
-#
 
 # Define Make environment
 # Variables
