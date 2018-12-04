@@ -12,9 +12,9 @@
 // Project Includes
 #include <hdd_driver.h>
 #include <hdd_file_io.h>
-#include <cmpsc311_log.h>
-#include <cmpsc311_util.h>
-#include <cmpsc311_hashtable.h>
+#include <log.h>
+#include <util.h>
+#include <hashtable.h>
 
 // Defines
 #define HDD_ARGUMENTS "hvul:"
