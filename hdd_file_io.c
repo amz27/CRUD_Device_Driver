@@ -1,16 +1,3 @@
-////////////////////////////////////////////////////////////////////////////////
-//
-//  File           : hdd_file_io.h
-//  Description    : This is the implementation of the standardized IO functions
-//                   for used to access the HDD storage system.
-//
-//  Author         : Patrick McDaniel
-//  Last Modified  : Sat Sep 2nd 08:56:10 EDT 2017
-//
-////////////////////////////////////////////////////////////////////////////////
-//
-// STUDENTS MUST ADD COMMENTS BELOW and FILL INT THE CODE FUNCTIONS
-//
 
 // Includes
 #include <malloc.h>
