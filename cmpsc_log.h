@@ -1,25 +1,3 @@
-#ifndef CMPSC311_LOG_INCLUDED
-#define CMPSC311_LOG_INCLUDED
-
-////////////////////////////////////////////////////////////////////////////////
-//
-//  File          : cmpsc311_log.h
-//  Description   : This is the logging service for the CMPSC311 utility
-//                  library.  It provides access enable log events,
-//                  whose levels are registered by the calling programs.
-//
-//   Note: The log process works on a bit-vector of levels, and all
-//         functions operate on bit masks of levels (lvl).  Log entries are
-//         given a level which is checked at run-time.  If the log level is
-//         enabled, then the entry it written to the log, and not otherwise.
-//
-//  Author   : Patrick McDaniel
-//  Last Modified  : Sat Sep 2nd 08:56:10 EDT 2017
-//
-////////////////////////////////////////////////////////////////////////////////
-//
-// STUDENTS MUST ADD COMMENTS BELOW
-//
 
 // Include files
 #include <stdio.h>
@@ -28,7 +6,7 @@
 //
 // Library Constants
 
-#define LOG_SERVICE_NAME "cmpsc311.log"
+#define LOG_SERVICE_NAME "cmpsc"
 
 // Default log levels
 #define LOG_ERROR_LEVEL			1
