@@ -1,20 +1,3 @@
-#ifndef CMPSC311_HASHTABLE_INCLUDED
-#define CMPSC311_HASHTABLE_INCLUDED
-
-////////////////////////////////////////////////////////////////////////////////
-//
-//  File          : cmpsc311_hashtable.h
-//  Description   : This is a generic hashtable implementation used for
-//                  data structure storage and access.
-//
-//  Author   : Patrick McDaniel
-//  Last Modified  : Sat Sep 2nd 08:56:10 EDT 2017
-//
-////////////////////////////////////////////////////////////////////////////////
-//
-// STUDENTS MUST ADD COMMENTS BELOW
-//
-
 
 // Includes
 #include <stdint.h>
