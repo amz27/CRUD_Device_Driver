@@ -1,21 +1,6 @@
 #ifndef HDD_FILE_IO_INCLUDED
 #define HDD_FILE_IO_INCLUDED
 
-////////////////////////////////////////////////////////////////////////////////
-//
-//  File           : crud_file_io.h
-//  Description    : This is the header file for the standardized IO functions
-//                   for used to access the CRUD storage system.
-//
-//  Author         : Patrick McDaniel
-//  Last Modified  : Sat Sep 2nd 08:56:10 EDT 2017
-//
-////////////////////////////////////////////////////////////////////////////////
-//
-// STUDENTS MUST ADD COMMENTS BELOW
-//
-
-
 // Include files
 #include <stdint.h>
 
