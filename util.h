@@ -1,24 +1,3 @@
-#ifndef CMPSC311_UTIL_INCLUDED
-#define CMPSC311_UTIL_INCLUDED
-
-////////////////////////////////////////////////////////////////////////////////
-//
-//  File          : cmpsc311_util.h
-//  Description   : This is a set of general-purpose utility functions we use
-//                  for the 311 homework assignments.
-//
-//  Author   : Patrick McDaniel
-//  Created  : Sat Sep 21 06:47:40 EDT 2013
-//
-//  Change Log:
-//
-//  10/11/13	Added the timer comparison function definition (PDM)
-//  Last Modified  : Sat Sep 2nd 08:56:10 EDT 2017
-//
-////////////////////////////////////////////////////////////////////////////////
-//
-// STUDENTS MUST ADD COMMENTS BELOW
-//
 
 // Includes
 #include <stdint.h>
